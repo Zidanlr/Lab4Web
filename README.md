@@ -7,12 +7,12 @@
 
 * Halaman Home praktikum 4
   
-<img src="gambar/sshf home.png">
+<img src="gambar/home.png">
 
 
 *  Halaman tambah barang praktikum 4
   
-<img src="gambar/sshf tambah.png">
+<img src="gambar/tambah.png">
 
 ## Membuat Routing
   
